@@ -1,0 +1,15 @@
+
+body{
+    background-color: lightblue;
+    font-family: Verdana;
+}
+h1{color:navy;}
+li{
+    background-color: yellow;
+}
+
+a {
+    color: red;
+    margin: center;
+    font-type: Arial;
+}
